@@ -15,7 +15,7 @@
 # 03.🥒 (非官方) 小黄瓜大佬 XBiubiuLA.jar:
 # Github --> https://github.com/lite-cucumber/CatVodTVSpider
 # 套Biubiu+LiteApple规则
-"spider":"raw.sevencdn.com/YuanHsing/OneClickRun/blob/master/xb/XBiubiuLA.jar",
+"spider":"https://raw.fastgit.org//jak0099/OR/master/xb/XBiubiuLA.jar",
 //"spider":"img+https://inews.gtimg.com/newsapp_ls/0/14940316852/0.jiketuchuang.png",
 
 
@@ -38,10 +38,10 @@
 {"key":"csp_biubiu_蓝光影视","name":"🥒蓝光影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.sevencdn.com/jak0099/OR/blob/master/xb/蓝光影视.json"},
 {"key":"csp_biubiu_在线之家","name":"🥒在线之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.sevencdn.com/jak0099/OR/blob/master/xb/在线之家.json"},
 {"key":"csp_biubiu_COKEMV","name":"🥒COKEMV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.sevencdn.com/jak0099/OR/blob/master/xb/COKEMV.json"},
-{"key":"csp_biubiu_饭团影院","name":"🥒饭团影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/OneClickRun/raw/master/xb/饭团影院.json"},
-//{"key":"csp_biubiu_奇粹影院","name":"🥒奇粹影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/OneClickRun/raw/master/xb/奇粹影院.json"},
-//{"key":"csp_biubiu_hdmoli","name":"🥒hdmoli(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/OneClickRun/raw/master/xb/hdmoli.json"},
-{"key":"csp_biubiu_影视工厂","name":"🥒影视工厂(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/OneClickRun/raw/master/xb/影视工厂.json"},
+{"key":"csp_biubiu_饭团影院","name":"🥒饭团影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org//jak0099/OR/master/xb/饭团影院.json"},
+//{"key":"csp_biubiu_奇粹影院","name":"🥒奇粹影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org//jak0099/OR/master/xb/奇粹影院.json"},
+//{"key":"csp_biubiu_hdmoli","name":"🥒hdmoli(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org//jak0099/OR/master/xb/hdmoli.json"},
+{"key":"csp_biubiu_影视工厂","name":"🥒影视工厂(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org//jak0099/OR/master/xb/影视工厂.json"},
 {"key":"csp_biubiu_双十电影","name":"🥒双十电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/OneClickRun/raw/master/xb/双十电影.json"},
 {"key":"csp_biubiu_555资源","name":"🥒555资源(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/OneClickRun/raw/master/xb/555资源.json"},
 {"key":"csp_biubiu_骚火电影","name":"🥒骚火电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/OneClickRun/raw/master/xb/骚火电影.json"},
